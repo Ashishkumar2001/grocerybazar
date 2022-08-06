@@ -35,7 +35,7 @@ export default class Header extends React.Component{
         return (
    
      <>
-    <Navbar style={bgcolor} expand="lg" fixed="top">
+    <Navbar style={bgcolor} expand="lg" >
       <Container fluid >
 
         <Link to="/" style={textColorHead}>Grocery Bazar</Link> {' '} <Link to="#cart"><Cart /></Link>

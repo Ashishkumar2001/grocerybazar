@@ -16,6 +16,7 @@ function Home() {
         <Row>
           <Col><Header /></Col>
         </Row>
+        
         <Row>
           <Col><Carousel /></Col>
         </Row>
